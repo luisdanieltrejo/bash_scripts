@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 
 while [[ i=l ]]
 do
