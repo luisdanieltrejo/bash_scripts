@@ -9,3 +9,5 @@ df -h /var/log | awk '{ print $5 " " $6 }'
 sleep 2s
 echo
 done
+
+# This script will contantly run, if you want to change that behavior you could change the while condition to match your preferences
